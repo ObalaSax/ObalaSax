@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ObalaSax
 - 👀 I’m interested in playing Saxophone 
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Game Dev
 - 💞️ I’m looking to collaborate on working on myself
 
 
