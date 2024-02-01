@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ObalaSax
+- 👋 Hi, I’m @Obala
 - 👀 I’m interested in playing Saxophone 
-- 🌱 I’m currently learning Game Dev
-- 💞️ I’m looking to collaborate on working on myself
+- 🌱 I’m currently learning IoT in Agriculture
+
 
 
 <!---
