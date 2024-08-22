@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Obala
 - 👀 I’m interested in playing Saxophone 
-- 🌱 I’m currently learning IoT in Agriculture
+- 🌱 I’m legit just trying out all things code
 
 
 
